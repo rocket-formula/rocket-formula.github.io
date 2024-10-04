@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "사이트이름뭐하지"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "이 사이트를 보세요"
 name                     : "이유진"
 description              : "아주 놀라운 웹사이트"
 url                      : "https://rocket-formula.github.io"
